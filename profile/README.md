@@ -6,5 +6,5 @@ This includes patches for the game, dedicated servers, tool applications and eve
 
 The goal of this project is to enhance user experience, as well as provide new ways of modding the games and, of course, play them.
 
-### [> Download latest release](https://github.com/SamClassicPatch/releases/latest)
+### [> Download latest release](https://github.com/SamClassicPatch/SuperProject/releases/latest)
 ### [> Read more about the project](https://github.com/SamClassicPatch/SuperProject/wiki)
